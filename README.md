@@ -2,6 +2,8 @@
 
 Đây là một trò chơi Tic-Tac-Toe(XO Game) đơn giản được viết bằng Java sử dụng thư viện Swing để tạo giao diện người dùng (GUI).
 
+![Ảnh chụp màn hình](./images/screenshot.png)
+
 ## Tính Năng
 
 - Trò chơi hai người (Người chơi X và Người chơi O)
@@ -25,5 +27,5 @@
 
 ## Ghi Chú
 
-Trò chơi này được clone từ video YouTube: [Code Tic Tac Toe in Java](https://www.youtube.com/watch?v=Nc77ymnm8Ss&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng&index=6).
+Trò chơi này được clone app từ video YouTube chỉ nhằm mục đích thực hành Java và OOP: [Code Tic Tac Toe in Java](https://www.youtube.com/watch?v=Nc77ymnm8Ss&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng&index=6).
 
