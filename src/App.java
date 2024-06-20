@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class App {
     public static void main(String[] args) {
-            TicTacToe t = new TicTacToe();
+            TicTacToe game = new TicTacToe();
         }
 }
