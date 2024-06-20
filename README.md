@@ -2,7 +2,7 @@
 
 Đây là một trò chơi Tic-Tac-Toe(XO Game) đơn giản được viết bằng Java sử dụng thư viện Swing để tạo giao diện người dùng (GUI).
 
-![Ảnh chụp màn hình](./images/screenshot.png)
+![Demo](./images/screenshot.png)
 
 ## Tính Năng
 
