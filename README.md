@@ -23,7 +23,7 @@
 
 1. Tải mã nguồn về từ GitHub.
 2. Mở dự án trong môi trường phát triển Java (ví dụ: IntelliJ IDEA, Eclipse).
-3. Chạy tệp `TicTacToe.java` để bắt đầu trò chơi.
+3. Chạy tệp `App.java` để bắt đầu trò chơi.
 
 ## Ghi Chú
 
